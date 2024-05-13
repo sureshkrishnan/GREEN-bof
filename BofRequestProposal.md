@@ -17,7 +17,7 @@ This working group would develop a suite of short-term deliverables aimed at enh
 - Length of session: 2 hours
 - Conflicts (whole Areas and/or WGs)
    - Chair Conflicts: TBD
-   - Technology Overlap: OPS Area, RTGWG, LSR
+   - Technology Overlap: OPS Area, RTGWG, LSR, tvr, ivy
    - Key Participant Conflict: TBD
 
 ## Information for IAB/IESG
